@@ -1,0 +1,11 @@
+git init
+git add <file name>
+git status 
+git commit -m "your message"
+git log --oneline
+git log --onlinie --pretty
+git config -user.name "Krishnayadav8950"
+git config -user.email "krishnayadav8950@gmail.com"
+git branch <existing branch name>
+git checkout -b <new branch name>
+git checkout -d <deleting existing branch>
